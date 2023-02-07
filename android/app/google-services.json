@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078645155730",
+    "project_id": "piller-alarm",
+    "storage_bucket": "piller-alarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078645155730:android:639fdd1934589d2b3a034b",
+        "android_client_info": {
+          "package_name": "com.example.clock_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078645155730-nbb6sqd2g9coo1c2iggaf938vn999ag8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgFQ8jUkSxRqx7nVfKZLa46q1kNB0eaZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078645155730-nbb6sqd2g9coo1c2iggaf938vn999ag8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

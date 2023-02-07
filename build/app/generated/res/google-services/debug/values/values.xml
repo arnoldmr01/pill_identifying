@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1078645155730-nbb6sqd2g9coo1c2iggaf938vn999ag8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1078645155730</string>
+    <string name="google_api_key" translatable="false">AIzaSyBgFQ8jUkSxRqx7nVfKZLa46q1kNB0eaZA</string>
+    <string name="google_app_id" translatable="false">1:1078645155730:android:639fdd1934589d2b3a034b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBgFQ8jUkSxRqx7nVfKZLa46q1kNB0eaZA</string>
+    <string name="google_storage_bucket" translatable="false">piller-alarm.appspot.com</string>
+    <string name="project_id" translatable="false">piller-alarm</string>
+</resources>
